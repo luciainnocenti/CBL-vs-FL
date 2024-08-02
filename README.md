@@ -32,6 +32,3 @@ The FedProstate dataset contains T2-magnetic resonance imaging (MRI) and segment
 
 To enable faithful reproduction of experiments, the **fedprostate/splits** folder of this repository contains CSV files for use with Fed-BioMed for defining train and test datasets. 
 N.B.: When you will define the nodes in Fed-BioMed, you can use these CSV files.
-
-## The experiments
-In our benchmark, we compared
